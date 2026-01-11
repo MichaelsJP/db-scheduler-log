@@ -42,7 +42,7 @@
         <dependency-plugin.failOnWarning>true</dependency-plugin.failOnWarning>
 
         <!-- Dependency versions -->
-        <spring-boot.version>2.7.3</spring-boot.version>
+        <spring-boot.version>3.5.9</spring-boot.version>
         <db-scheduler.version>16.7.0</db-scheduler.version>
     </properties>
 
