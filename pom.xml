@@ -30,9 +30,9 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jdk.version>1.8</jdk.version>
-        <maven.compiler.source>${jdk.version}</maven.compiler.source>
-        <maven.compiler.target>${jdk.version}</maven.compiler.target>
+        <java.version>21</java.version>
+        <maven.compiler.source>${java.version}</maven.compiler.source>
+        <maven.compiler.target>${java.version}</maven.compiler.target>
         <compilerArgument/>
         <license.dir>${project.basedir}/.license</license.dir>
 
